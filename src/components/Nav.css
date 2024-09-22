@@ -1,0 +1,15 @@
+.nav-item :hover{
+    background-color: #ffa826;
+}
+.dropdown :hover{
+    background-color: #ffa826;
+}
+.navbar-brand:hover{
+    background-color: #111;
+}
+.card-body{
+    transition: all 0.3s;
+}
+.card:hover{
+    transform: scale(1.10);
+}
