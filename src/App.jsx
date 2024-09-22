@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from './components/navbar'
-import Newsboard from './components/newsboard';
+import Navbar from './components/Navbar'
+import Newsboard from './components/Newsboard';
 import { useState } from 'react';
 import './App.css';
 
